@@ -3,6 +3,12 @@
 - 🌱 I’m currently upskilling my cloud computing skills by working on projects in AWS 
 - 📫 Please reach out to me on [LinkedIn](https://www.linkedin.com/in/shivananda199/) or via email at [shivananda199@gmail.com](mailto:email@shivananda199@gmail.com)
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=shivananda199&theme=black-ice&mode=weekly)](https://git.io/streak-stats)
+<!---
+https://github.com/DenverCoder1/github-readme-streak-stats
+https://github.com/DenverCoder1/github-readme-streak-stats/blob/main/docs/themes.md
+--->
+
 <!---
 shivananda199/shivananda199 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
