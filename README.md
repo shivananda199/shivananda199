@@ -2,7 +2,7 @@
 - 👀 I’m interested in working on impactful problems in the field of Data Engineering and Analytics
 - 🌱 I’m currently upskilling my cloud computing skills by working on projects in AWS 
 - 📫 Please reach out to me on [LinkedIn](https://www.linkedin.com/in/shivananda199/) or via email at [shivananda199@gmail.com](mailto:email@shivananda199@gmail.com)
-<img align="left" height=200 width=390 src="https://streak-stats.demolab.com/?user=shivananda199&theme=black-ice&mode=weekly" alt="Shivananda's Streak Stats" />
+<img align="left" height=200 width=390 src="https://streak-stats.demolab.com/?user=shivananda199&theme=black-ice&mode=daily" alt="Shivananda's Streak Stats" />
 <!---
 [![GitHub Streak](https://streak-stats.demolab.com/?user=shivananda199&theme=black-ice&mode=weekly)](https://git.io/streak-stats)
 
