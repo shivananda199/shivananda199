@@ -6,6 +6,8 @@
 <img align="left" height=200 width=390 src="https://streak-stats.demolab.com/?user=shivananda199&theme=black-ice&mode=weekly" alt="Shivananda's Streak Stats" />
 <!---
 [![GitHub Streak](https://streak-stats.demolab.com/?user=shivananda199&theme=black-ice&mode=weekly)](https://git.io/streak-stats)
+https://github.com/KnlnKS/leetcode-stats
+
 
 https://github.com/DenverCoder1/github-readme-streak-stats
 https://github.com/DenverCoder1/github-readme-streak-stats/blob/main/docs/themes.md
