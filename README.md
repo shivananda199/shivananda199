@@ -11,6 +11,9 @@ https://github.com/DenverCoder1/github-readme-streak-stats
 https://github.com/DenverCoder1/github-readme-streak-stats/blob/main/docs/themes.md
 --->
 
+<!--
+[![Shivananda's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=shivananda199)](https://github.com/shivananda199/leetcode-stats)
+
 <!---
 shivananda199/shivananda199 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
